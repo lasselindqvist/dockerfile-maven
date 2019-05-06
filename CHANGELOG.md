@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.11 (released May 1 2019)
+- Update docker-client version to 8.14.5 ([280][])
+
+[280]: https://github.com/spotify/dockerfile-maven/pull/280
+
 ## 1.4.10 (released January 15 2019)
 - Add support for --squash experimental build option ([248][])
 - Add support for specifying a custom Dockerfile location ([89][])
